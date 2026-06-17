@@ -1,0 +1,8 @@
+# Local helper scripts & scratch files — not part of the published site
+download-images.ps1
+download-images.bat
+_t.txt
+
+# OS / editor noise
+Thumbs.db
+.DS_Store
