@@ -3,8 +3,9 @@ download-images.ps1
 download-images.bat
 _t.txt
 
-# watermark-removal demo previews (not for publishing)
+# scratch / demo folders (not for publishing)
 _wm_demo/
+_renametest/
 
 # OS / editor noise
 Thumbs.db
