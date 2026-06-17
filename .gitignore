@@ -3,6 +3,9 @@ download-images.ps1
 download-images.bat
 _t.txt
 
+# watermark-removal demo previews (not for publishing)
+_wm_demo/
+
 # OS / editor noise
 Thumbs.db
 .DS_Store
